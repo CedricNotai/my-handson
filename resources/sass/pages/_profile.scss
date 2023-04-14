@@ -1,0 +1,17 @@
+#profile-page {
+    form {
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+
+        .form-control {
+            background-color: $white;
+            border: solid 1px $darkGreen;
+        }
+    }
+    
+    .disconnect {
+        @media screen and (min-width: 768px) {
+            display: none;
+        }
+    }
+}

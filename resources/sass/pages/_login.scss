@@ -1,0 +1,73 @@
+#login-page, #registration-page, #forgot-password-page, #reset-password-page {
+    width: 90%;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    @media screen and (min-width: 768px) {
+        width: 50%;
+        margin: 8rem auto;
+    }
+
+    form {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+
+        .form-control {
+            background-color: $white;
+            border: none;
+
+            &:focus {
+                border: solid 1px $darkGreen;
+            }
+        }
+
+        .form-actions {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .btn {
+            margin: 2rem auto;
+            background-color: $black;
+            border: none;
+            margin-bottom: 2rem;
+
+            &:hover {
+                background-color: $darkGreen;
+            }
+        }
+    }
+
+    .nav-link {
+        color: $black;
+        text-decoration: underline;
+
+        &:hover {
+            color: $darkGreen;
+        }
+    }
+}
+
+#verify-email-page {
+    margin: 2rem auto;
+    text-align: center;
+    @media screen and (min-width: 768px) {
+        margin: 8rem auto;
+    }
+
+    h1 {
+        margin-bottom: 1rem;
+    }
+
+    .resend-link, a {
+        color: $black;
+
+        &:hover {
+            color: $darkGreen;
+        }
+    }
+}  

@@ -20,7 +20,7 @@ Les technologies et outils employés dans notre projet sont :
 - phpmyadmin
 - npm et Laravel Vite
 - composer
-- Figma pour les [maquettes](https://www.figma.com/file/Hzy5AN1WIr6ze9QrnmDOQP/Maquette-Hands-on-project?node-id=0%3A1&t=TwS6yYVFYpYAKxAX-1) 
+- Figma pour les maquettes : https://www.figma.com/file/Hzy5AN1WIr6ze9QrnmDOQP/Maquette-Hands-on-project?node-id=0%3A1&t=TwS6yYVFYpYAKxAX-1 
 - Nom de domaine handson-equipe-4.me (NameCheap)
 - certificat SSL (NameCheap)
 - hébergement Cloud : Digital OCean
@@ -35,8 +35,8 @@ Les technologies et outils employés dans notre projet sont :
 ## Organisation du travail :
 - Daily rapide tous les matins
 - Discord de projet pour la communication et le partage d'informations
-- [Drive partagé](https://drive.google.com/drive/folders/1B6eYNOLyxWrgpm3caJiT7PCY-5CbB--l) : copie du sujet et docs divers
-- [Trello](https://trello.com/b/t5aw7CaU/kanban) pour le suivi des tâches
+- Drive partagé : copie du sujet et docs divers - https://drive.google.com/drive/folders/1B6eYNOLyxWrgpm3caJiT7PCY-5CbB--l 
+- Trello pour le suivi des tâches : https://trello.com/b/t5aw7CaU/kanban 
 
 ## Scénario
 - j’arrive sur la page d’accueil
@@ -56,33 +56,16 @@ Les technologies et outils employés dans notre projet sont :
 - Sara ZOUIOULA
 
 ## Demo
-Quelques [vidéos de présentation](https://drive.google.com/drive/folders/1MVFI0MBe4Uma3B0_Q3khzY9Ixvs-eXAj), mais le site est également accessible [en ligne](https://handson-equipe-4.me/). 
 
-## Documentation
-##### Pour les utilisateurs
-[Guide utilisateur](https://github.com/it-akademy-students/handson-2023-1-equipe-4/blob/ca4186b09df65dcbf455a39e1c62fb7a402352c8/Documentation%20utilisateur.pdf)
-
-##### Pour les développeurs
-[Récupérer le projet](https://github.com/it-akademy-students/handson-2023-1-equipe-4/blob/ca4186b09df65dcbf455a39e1c62fb7a402352c8/dev-documentation.md)
-
-##### Documentation externe
-La documentation qui nous a été très utile pour mettre ce projet en place. 
-- [Laravel](https://laravel.com/)
-- [API Geoapify Routing](https://apidocs.geoapify.com/docs/routing/#routing)
-- [API Geoapify Places](https://apidocs.geoapify.com/docs/places/#about)
-- [API Geolocation](https://developer.mozilla.org/fr/docs/Web/API/Geolocation_API)
-- [API Opencage Geocoding](https://opencagedata.com/api)
-- [API Opendatasoft](https://public.opendatasoft.com/api/v2/console)
-- [Digital Ocean](https://docs.digitalocean.com/products/)
-- [Mailgun](https://documentation.mailgun.com/en/latest/)
+## Documentation utile
+- Laravel https://laravel.com/
+- API Geoapify Routing : https://apidocs.geoapify.com/docs/routing/#routing 
+- API Geoapify Places : https://apidocs.geoapify.com/docs/places/#about
+- API Geolocation : https://developer.mozilla.org/fr/docs/Web/API/Geolocation_API 
+- API Opencage Geocoding : https://opencagedata.com/api 
+- API Opendatasoft : https://public.opendatasoft.com/api/v2/console
 
 ## Axes de développement :
-##### Profil
-- amélioration de la fonctionnalité d’édition du mot de passe (demander de confirmer le mot de passe actuel)
-- enrichir le profil avec plus d'informations (moyen de déplacement préféré par exemple)
-
-##### Résultats
-- ajouter le calcul de l'empreinte carbone de l'itinéraire en voiture
-
-##### Général
-- créer une véritable identité visuelle (logo, nom, etc.)
+- amélioration de la fonctionnalité d’édition du mot de passe
+- calcul de l’empreinte carbone de l’itinéraire choisi
+- profil utilisateur enrichi avec moyen de déplacement préféré
