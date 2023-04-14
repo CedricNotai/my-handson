@@ -69,3 +69,5 @@ Les technologies et outils employés dans notre projet sont :
 - amélioration de la fonctionnalité d’édition du mot de passe
 - calcul de l’empreinte carbone de l’itinéraire choisi
 - profil utilisateur enrichi avec moyen de déplacement préféré
+
+## Testing
